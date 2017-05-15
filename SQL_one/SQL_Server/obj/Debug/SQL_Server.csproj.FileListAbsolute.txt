@@ -1,0 +1,11 @@
+T:\CSharp\nmo\SQL_one\SQL_Server\bin\Debug\SQL_Server.exe.config
+T:\CSharp\nmo\SQL_one\SQL_Server\bin\Debug\Database1.mdf
+T:\CSharp\nmo\SQL_one\SQL_Server\bin\Debug\Database1_log.ldf
+T:\CSharp\nmo\SQL_one\SQL_Server\bin\Debug\SQL_Server.exe
+T:\CSharp\nmo\SQL_one\SQL_Server\bin\Debug\SQL_Server.pdb
+T:\CSharp\nmo\SQL_one\SQL_Server\obj\Debug\SQL_Server.csprojResolveAssemblyReference.cache
+T:\CSharp\nmo\SQL_one\SQL_Server\obj\Debug\SQL_Server.Form1.resources
+T:\CSharp\nmo\SQL_one\SQL_Server\obj\Debug\SQL_Server.Properties.Resources.resources
+T:\CSharp\nmo\SQL_one\SQL_Server\obj\Debug\SQL_Server.csproj.GenerateResource.Cache
+T:\CSharp\nmo\SQL_one\SQL_Server\obj\Debug\SQL_Server.exe
+T:\CSharp\nmo\SQL_one\SQL_Server\obj\Debug\SQL_Server.pdb

@@ -1,0 +1,71 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Data; // System.Data is the root namespace for ADO.NET
+using System.Data.OleDb; // for Access we
+
+
+namespace SQL_one
+{
+    public partial class Form1 : Form
+    {
+        OleDbDataAdapter da;
+        OleDbConnection conn;
+        public Form1()
+        {
+            InitializeComponent();
+
+            // To send queries  you need a Connection Object
+            // and a command Object
+            OleDbConnectionStringBuilder strBuilder
+                = new OleDbConnectionStringBuilder();
+
+            // Provider = Mic
+
+            strBuilder.Provider = "Microsoft.Jet.OLEDB.4.0";
+            strBuilder.DataSource = @"T:\CSharp\nmo\db2.mdb";
+
+            conn = new OleDbConnection(strBuilder.ConnectionString);
+            
+
+            DataSet ds = new DataSet();
+
+            da = new OleDbDataAdapter("Select * from Worker", conn);
+
+            da.Fill(ds);
+
+            dataGridView1.DataSource = ds;
+            dataGridView1.DataMember = ds.Tables[0].TableName;
+
+        }
+
+        private void Run_Click(object sender, EventArgs e)
+        {
+            
+            DataSet ds = new DataSet();
+            OleDbCommand cmd = new OleDbCommand(textBox1.Text.Trim(), conn);
+            da.SelectCommand = cmd;
+            da.Fill(ds);
+            dataGridView1.DataSource = ds;
+            dataGridView1.DataMember = ds.Tables[0].TableName;
+
+
+
+        }
+    }
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+T:\CSharp\nmo\console_2\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+T:\CSharp\nmo\console_2\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+T:\CSharp\nmo\console_2\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+T:\CSharp\nmo\console_2\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+T:\CSharp\nmo\console_2\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+T:\CSharp\nmo\console_2\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+T:\CSharp\nmo\console_2\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+T:\CSharp\nmo\console_2\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+T:\CSharp\nmo\console_2\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+T:\CSharp\nmo\console_2\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+T:\CSharp\nmo\console_2\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+T:\CSharp\nmo\console_2\ConsoleApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+T:\CSharp\nmo\console_2\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+T:\CSharp\nmo\console_2\ConsoleApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll

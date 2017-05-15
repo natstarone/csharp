@@ -1,0 +1,11 @@
+C:\Users\po2\Desktop\Program 3\bin\Debug\Program 3.exe.config
+C:\Users\po2\Desktop\Program 3\bin\Debug\Program 3.exe
+C:\Users\po2\Desktop\Program 3\bin\Debug\Program 3.pdb
+C:\Users\po2\Desktop\Program 3\obj\Debug\Program_3.Form1.resources
+C:\Users\po2\Desktop\Program 3\obj\Debug\Program_3.Properties.Resources.resources
+C:\Users\po2\Desktop\Program 3\obj\Debug\Program 3.csproj.GenerateResource.Cache
+C:\Users\po2\Desktop\Program 3\obj\Debug\Program 3.exe
+C:\Users\po2\Desktop\Program 3\obj\Debug\Program 3.pdb
+C:\Users\po2\Desktop\Program 3\obj\Debug\Program 3.csprojResolveAssemblyReference.cache
+C:\Users\po2\Desktop\Program 3\obj\Debug\Program_3.AboutBox1.resources
+C:\Users\po2\Desktop\Program 3\obj\Debug\Program_3.InputBox.resources

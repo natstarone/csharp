@@ -1,0 +1,42 @@
+notes on ado.net
+
+OLE = object linking and embeding
+
+OLE > COM > COM+
+
+OLE DB = Database engine = Jet Engine = 
+
+database - provider
+
+for any database you need a provider.
+
+database provider = driver = .dll > download
+
+data source > add new data source > 
+
+data grid view
+
+ado.net is connection less.
+
+everything is tied to components.
+
+tabelAdapterManager gets connection.
+
+dataview is connecte connected to datasource: workerBindingSource 'example' 
+
+.xsd allow customization. right click > configure. query builder = for novice. query builder is good for one thing execute queries.
+
+details > textbox for every column > navigator
+
+never give people total access to database.
+
+sql server connection object command object >> data set and data adapter.
+
+
+server explorer: servers 
+
+data source: connecting adapters
+
+name 
+varchar 15
+
